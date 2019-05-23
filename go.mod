@@ -1,3 +1,3 @@
-module gitlab.infosum.io/john/empty-go-modules
+module github.com/johnchildren/nix-empty-go-modules
 
 go 1.12
