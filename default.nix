@@ -5,5 +5,5 @@ pkgs.buildGoModule {
 
   src = ./.;
 
-  modSha256 = "02qzy0dxll965vzjvx849151bzb9z8mpq7qy0nbx2s9snjbnsf96";
+  modSha256 = "0sjjj9z1dhilhpc8pq4154czrb79z9cm044jvn75kxcjv6v5l2m5";
 }
